@@ -24,7 +24,7 @@ You can be infected by breathing in the virus if you are near someone who has CO
 
 ## The Covid has spread around the World! Keep safe yourself from Covid!
 
-![](meme.jpeg)
+![](meme.jpeg, "meme pic")
 
 <img src="meme.jpeg", alt="meme icon">
 
