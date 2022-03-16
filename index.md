@@ -26,7 +26,7 @@ You can be infected by breathing in the virus if you are near someone who has CO
 
 ![](meme.jpeg)
 
-
+<img src="meme.jpeg", alt="meme icon">
 
 
 
