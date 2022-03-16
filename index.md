@@ -24,7 +24,7 @@ You can be infected by breathing in the virus if you are near someone who has CO
 
 ## The Covid has spread around the World! Keep safe yourself from Covid!
 
-![](C:\Users\yroh473\OneDrive - The University of Auckland\STATS 220\Assignment 1/meme.jpeg)
+![](meme.jpeg)
 
 
 
