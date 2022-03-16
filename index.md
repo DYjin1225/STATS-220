@@ -14,11 +14,11 @@ You can be infected by breathing in the virus if you are near someone who has CO
 </details>
 
 ## How Prevent the Spread of Covid -19 
-- Maintain a safe distance from others (at least 1 metre), even if they don't appear to be sick.
--  a mask in public, especially indoors or when physical distancing is not possible.
+- Maintain a **_safe distance from others (at least 1 metre)_**, even if they don't appear to be sick.
+- **_Put a mask_** in public, especially indoors or when physical distancing is not possible.
 - Choose open, well-ventilated spaces over closed ones. Open a window if indoors.
-- Clean your hands often. Use soap and water, or an alcohol-based hand rub.
-- Get vaccinated when it's your turn. Follow local guidance about vaccination.
+- **_Clean your hands_** often. Use soap and water, or an alcohol-based hand rub.
+- **_Get vaccinated_** when it's your turn. Follow local guidance about vaccination.
 - Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.
   Stay home if you feel unwell.
 
