@@ -30,7 +30,6 @@ my_meme <- image_read("http://localhost:27277/session/preview.jpeg?viewer_pane=1
 
 print(my_meme)
 
-
 **_I made this meme for People know COVID-19 is really serious around the world at this present and they should protecting themselves from this COVID - 19.!!_**
 
 I used this toy story background which is from internet, because this background seems expressed like look around how much spread the Covid-19 in the world.And I added the comments on this background myself to looked more impact! 
