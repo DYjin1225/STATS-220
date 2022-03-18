@@ -8,6 +8,7 @@ This course introduces R programming to handle a wide variety of data science ch
 
 </Details>
 
+<Details>
 ## Learning Outcome
 
 By the end of this course, students will be able to:
@@ -17,4 +18,4 @@ By the end of this course, students will be able to:
 4. Develop communication skills using reproducible reporting with R Markdown (Capability 1 and 4)
 5. Gain practical skills of web technologies (HTML and CSS) for web scraping (Capability 1, 2, 3 and 5)
 6. Learn good practice of project-oriented workflow (Capability 1, 3 and 4)
-
+</Details>
