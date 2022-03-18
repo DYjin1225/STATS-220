@@ -26,10 +26,7 @@ You can be infected by breathing in the virus if you are near someone who has CO
 
 I made this meme using by the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
-my_meme <- image_read("http://localhost:27277/session/preview.jpeg?viewer_pane=1&capabilities=1&host=http%3A%2F%2F127.0.0.1%3A9407")%>% image_scale(500)
-
-print(my_meme)
-
+![](my_meme.jpeg)
 
 **_I made this meme for People know COVID-19 is really serious around the world at this present and they should protecting themselves from this COVID - 19.!!_**
 
