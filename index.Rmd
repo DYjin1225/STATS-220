@@ -1,0 +1,32 @@
+---
+title: "Assignment 1"
+Subtitle: "STATS 220 Semester One 2022" 
+Author: "Yujin.Roh"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, include = FALSE, message = FALSE, error = FALSE, warning = FALSE)
+```
+## My GitHub repository information
+
+- GitHub page [DYjin1225 STATS 220](https://github.com/DYjin1225/STATS-220)
+- **_Summerise of my Git hub_** 
+    
+    I shared.. 
+  - The STATS 220 Course details.
+  - About Covid-19 prevention details 
+  - About My meme picture. 
+
+## Animated GIF creation
+```{r echo=TRUE}
+image_animate(image_scale(my_meme, "200x200"), fps = 1, dispose = "previous")
+
+covid <- image_scale(image_read("https://labblog.uofmhealth.org/sites/lab/files/2020-12/group_of_experts_in_white_PPE.jpg"))
+
+image_resize(c(covid), '200x200!') %>%
+  image_background('white') %>%
+  image_morph() %>%
+  image_animate(optimize = TRUE)
+
+
+```
