@@ -1,4 +1,4 @@
-# HELLO! 
+# Welcome! 
 Welcome to my website about Covid-19!
 
 ## what is Covid -19
